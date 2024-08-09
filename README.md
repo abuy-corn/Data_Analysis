@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abuuy
+- 👋 Hi, I’m Abuy
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Power BI, Advanced Python, AWS
 
