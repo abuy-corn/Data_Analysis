@@ -2,7 +2,9 @@
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Power BI,  AWS
 ## Portfolio
+## Portfolio
 
-Data Visualization Tableau(https://public.tableau.com/app/profile/cornell.a7752/vizzes))
+Check out my [Tableau Profile]([https://github.com/YourUsername](https://public.tableau.com/app/profile/cornell.a7752/vizzes)) for data visualizaton portfolio.
+
 
 
