@@ -8,8 +8,6 @@
 Tableau Profile
 https://public.tableau.com/app/profile/cornell.a7752/vizzes
 
-## Python
-
 
 
 
